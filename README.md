@@ -4,7 +4,7 @@
 |------|--------|----|
 |Workflow Management|(Restricted) Hunting Workflow Management System|[Link](https://github.com/th3y3ti/groundhog11-tahiti-wfms)|
 |Working with ATT&CK|MITRE ATT&CK Navigator|[Link](https://mitre-attack.github.io/attack-navigator/enterprise/)|
-|Working with ATT&CK|Working with MITRE ATT&CK (pyattck)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/groundhog11/master/master?filepath=notebooks%2FExercises%20-%20Working%20with%20ATTACK.ipynb)|
+|Working with ATT&CK|Working with MITRE ATT&CK (pyattck)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/groundhog11/master?filepath=notebooks%2Fpyattck.ipynb)|
 |Hunting: Data Sources|DeTTECT - Groups|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=groups.ipynb)|
 |Hunting: Data Sources|DeTTECT - Data Source Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=data-sources.ipynb)|
 |Hunting: Visibility Coverage|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=visibility.ipynb)|

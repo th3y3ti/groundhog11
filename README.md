@@ -10,14 +10,7 @@
 |Managing a Threat Hunting Program|Example GitHub/GitLab Hunting Workflow Management System|[Link](https://github.com/th3y3ti/tahiti-wfms)|
 
 ## References
-* [Cb Response Developer Documentation](https://developer.carbonblack.com/reference/enterprise-response/)
-* [Cb Response REST API Docs](https://developer.carbonblack.com/reference/enterprise-response/6.3/rest-api/)
-* [`cbapi` on Github](https://github.com/carbonblack/cbapi-python)
-* [`cbapi` Python Client Docs](https://cbapi.readthedocs.io/en/latest/response-api.html)
-* [Tokenization Changes (6.1+)](https://developer.carbonblack.com/reference/enterprise-response/6.1/command-line-query-changes/)
-* [Partitioning Changes (6.0+)](https://developer.carbonblack.com/reference/enterprise-response/6.1/process-api-changes/)
-* Cb Response Data Models
-    * [`cbapi` model docs](https://cbapi.readthedocs.io/en/latest/response-api.html#models)
-    * [`cbapi` model schemas](https://github.com/carbonblack/cbapi-python/tree/master/src/cbapi/response/models)
-    * [`cbapi` model classes](https://github.com/carbonblack/cbapi-python/blob/master/src/cbapi/response/models.py#L1597)
-    * [`cbapi` model protobufs](https://github.com/carbonblack/cbapi-python/blob/master/src/cbapi/response/sensor_events.py)
+|Name| Link|
+|--|--|
+|Roberto Rodriguez Interview| https://www.youtube.com/watch?v=KryJx_xAwCg|
+|Jupyter Notebooks and Pre-recorded Datasets for Threat Hunting| https://www.youtube.com/watch?v=ZfJ01ZFCMe0|

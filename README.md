@@ -10,6 +10,7 @@
 |Hunting: Visibility Coverage|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=visibility.ipynb)|
 |Hunting: Detection Coverage|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=detection.ipynb)|
 |Hunting: Visibility|Mordor Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hunters-forge/mordor/master)|
+|Hunting: Visibility|Threat Hunters Playbook|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hunters-forge/ThreatHunter-Playbook/master)|
 |Hunting: Detection|Sigma Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/sigma/master?filepath=notebooks%2Fsigmac.ipynb)|
 
 

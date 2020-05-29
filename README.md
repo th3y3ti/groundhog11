@@ -9,7 +9,7 @@
 |Hunting: Detection Coverage|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=detection.ipynb)|
 |Hunting: Visibility|Mordor Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hunters-forge/mordor/master)|
 |Hunting: Detection|Sigma Project|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/sigma/master?filepath=notebooks%2Fsigmac.ipynb)|
-|Managing a Threat Hunting Program|Example GitHub/GitLab Hunting Workflow Management System|[Link](https://github.com/th3y3ti/tahiti-wfms)|
+|Managing a Threat Hunting Program|Demo Hunting Workflow Management System|[Link](https://github.com/th3y3ti/groundhog11-tahiti-wfms)|
 
 ## References
 |Name| Link|

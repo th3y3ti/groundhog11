@@ -3,6 +3,7 @@
 |Section|Exercise|Link|
 |------|--------|----|
 |Working with ATT&CK|Working with MITRE ATT&CK (pyattck)|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/arches7/master?filepath=notebooks%2FExercises%20-%20Working%20with%20ATTACK.ipynb)|
+|Hunting: Data Sources|DeTTECT - Groups|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=groups.ipynb)|
 |Hunting: Data Sources|DeTTECT - Data Source Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=data-sources.ipynb)|
 |Hunting: Visibility Coverage|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=visibility.ipynb)|
 |Hunting: Detection Coverage|DeTTECT - Technique Administration|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/th3y3ti/DeTTECT/master?filepath=detection.ipynb)|

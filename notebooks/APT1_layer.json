@@ -1,0 +1,1056 @@
+{
+    "name": "APT1 Data Source Coverage Map",
+    "version": "2.2",
+    "domain": "mitre-enterprise",
+    "description": "Shows techniques where the organization has a relevant data source to detect APT1",
+    "filters": {
+        "stages": [
+            "act"
+        ],
+        "platforms": [
+            "Windows",
+            "SaaS",
+            "Azure AD",
+            "Azure",
+            "GCP",
+            "Office 365",
+            "AWS",
+            "macOS",
+            "Linux"
+        ]
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#b3d9ff"
+        ],
+        "maxValue": 1,
+        "minValue": 0
+    },
+    "sorting": 0,
+    "viewMode": 0,
+    "hideDisabled": true,
+    "metadata": [],
+    "techniques": [
+        {
+            "techniqueID": "T1156",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1134",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1015",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1531",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1098",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1182",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1103",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1155",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1527",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1017",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1138",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1010",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1123",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1131",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1020",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1197",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1139",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1009",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1067",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1217",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1176",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1110",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1088",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1191",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1042",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1146",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1115",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1522",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1538",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1526",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1116",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1043",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1092",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1500",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1223",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1109",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1122",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1175",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1090",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1196",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1136",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1503",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1081",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1214",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1094",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1024",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1207",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1038",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1073",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1485",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1132",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1022",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1486",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1001",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1074",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1030",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1530",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1213",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1039",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1025",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1491",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1140",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1089",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1488",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1487",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1172",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1483",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1482",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1189",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1157",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1173",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1514",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1519",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1499",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1480",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1106",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1129",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1048",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1041",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1011",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1052",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1190",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1203",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1212",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1211",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1068",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1210",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1133",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1181",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1008",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1107",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1006",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1044",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1083",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1222",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1495",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1187",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1144",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1061",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1484",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1148",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1200",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1158",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1147",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1143",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1179",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1062",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1183",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1525",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1054",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1066",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1070",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1202",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1490",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1056",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1141",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1130",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1118",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1534",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1208",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1215",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1142",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1161",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1149",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1171",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1177",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1159",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1160",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1152",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1168",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1162",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1037",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1185",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1031",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1112",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1170",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1104",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1188",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1026",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1079",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1096",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1128",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1498",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1046",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1126",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1040",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1050",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1027",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1137",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1502",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1097",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1174",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1201",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1034",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1120",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1069",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1150",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1205",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1013",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1086",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1504",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1145",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1186",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1093",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1055",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1012",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1163",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1164",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1108",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1060",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1121",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1117",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1219",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1105",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1021",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1018",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1091",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1496",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1536",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1014",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1085",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1494",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1178",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1198",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1184",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1053",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1029",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1113",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1180",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1063",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1101",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1167",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1505",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1035",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1058",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1489",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1166",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1051",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1023",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1218",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1216",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1518",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1045",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1153",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1151",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1193",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1192",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1194",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1071",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1032",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1095",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1165",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1528",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1539",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1492",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1169",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1206",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1195",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1019",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1082",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1033",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1529",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1124",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1501",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1080",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1221",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1072",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1209",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1099",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1537",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1493",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1154",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1127",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1199",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1111",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1065",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1535",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1204",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1078",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1125",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1497",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1102",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1506",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1100",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1077",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1047",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1084",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1028",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1004",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1220",
+            "enabled": false
+        },
+        {
+            "techniqueID": "T1087",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1003",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        }
+    ]
+}

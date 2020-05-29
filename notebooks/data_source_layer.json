@@ -1,0 +1,1566 @@
+{
+    "name": "Data Source Coverage Map",
+    "version": "2.2",
+    "domain": "mitre-enterprise",
+    "description": "Shows techniques where the organization has a relevant data source",
+    "filters": {
+        "stages": [
+            "act"
+        ],
+        "platforms": [
+            "Windows",
+            "SaaS",
+            "Azure AD",
+            "Azure",
+            "GCP",
+            "Office 365",
+            "AWS",
+            "macOS",
+            "Linux"
+        ]
+    },
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#b3d9ff"
+        ],
+        "maxValue": 1,
+        "minValue": 0
+    },
+    "sorting": 0,
+    "viewMode": 0,
+    "hideDisabled": false,
+    "metadata": [],
+    "techniques": [
+        {
+            "techniqueID": "T1156",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1134",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1015",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1087",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1098",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1155",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1017",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1010",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1123",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1119",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1020",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1197",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1139",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1009",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1067",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1217",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1146",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1115",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1522",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1538",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1526",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1092",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1500",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1223",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1109",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1175",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1196",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1136",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1003",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1503",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1081",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1207",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1038",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1002",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1485",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1022",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1486",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1074",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1530",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1213",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1005",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1039",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1025",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1140",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1089",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1482",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1157",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1173",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1514",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1114",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1519",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1129",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1052",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1211",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1210",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1181",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1107",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1006",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1044",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1222",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1187",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1144",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1061",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1148",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1158",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1147",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1143",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1179",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1070",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1202",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1056",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1534",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1161",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1177",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1159",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1160",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1152",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1168",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1162",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1037",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1185",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1036",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1031",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1112",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1096",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1137",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1502",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1034",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1120",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1069",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1150",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1013",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1086",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1504",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1145",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1186",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1093",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1055",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1163",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1164",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1108",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1060",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1091",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1496",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1536",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1085",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1494",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1178",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1198",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1053",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1113",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1180",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1064",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1063",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1505",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1489",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1166",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1051",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1023",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1518",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1153",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1151",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1193",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1165",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1539",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1492",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1169",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1206",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1195",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1019",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1124",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1501",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1080",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1072",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1209",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1099",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1537",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1154",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1199",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1111",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1535",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1078",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "AWS CloudTrail logs"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1125",
+            "score": 2,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "API monitoring, File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1100",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1028",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        },
+        {
+            "techniqueID": "T1004",
+            "score": 1,
+            "metadata": [
+                {
+                    "name": "Data Sources",
+                    "value": "File monitoring"
+                }
+            ]
+        }
+    ]
+}

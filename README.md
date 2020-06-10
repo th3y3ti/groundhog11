@@ -1,5 +1,3 @@
-# groundhog11
-
 |Section|Exercise|Link|
 |------|--------|----|
 |Workflow Management|(Restricted) Hunting Workflow Management System|[Link](https://github.com/th3y3ti/groundhog11-tahiti-wfms)|
